@@ -1,4 +1,4 @@
-# paralel_rezistance
+# paralel_resistance
 
 Hi. So you no when you are calculating electric circuits and denote paralel resistance like R1||R2||R3  and so on.
 And at the end you neet to calculate it sepretly befor pluging everything in to calculator,
