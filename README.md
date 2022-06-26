@@ -7,9 +7,12 @@ With this program you can calculate it easy and quick.
 
 --------------------------------------------------------------------------------------------------------------
 
+par.c  : c source file
+rpar   : binary file compiled with gcc on Linux Ubuntu 18.04.06 LTS
+
 # If you are using linux 
 
-just copy binary file to your bin folder make it executable and you are redy to go.
+just copy binary file to your bin/ ( I prefere ~/.local/bin ) folder make it executable and you are redy to go.
 or you can compile source yourselfe.
 
 Then open the terminal, 
